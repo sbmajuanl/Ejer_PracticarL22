@@ -1,0 +1,21 @@
+  .cajas{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin:10px;
+    background: rgba(128, 128, 128, 0.28);
+  }
+  .c2{
+    width: 430px;
+    height: 142px;
+    position: relative;
+  }
+  .c2_1{
+    margin: 20px;
+    float: left;
+    background: rgba(255, 255, 255, 0.01);
+  }
+  .c3_2{
+    margin-left: 123px;
+    margin-top: -112px;
+  }

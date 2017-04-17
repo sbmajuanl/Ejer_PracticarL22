@@ -1,0 +1,25 @@
+
+.s1{
+  background: yellow;
+  font-size: 20px;
+  font-weight: 400px;
+  display: inline;
+  margin-left: 500px;
+  padding: 10px;
+}
+.s2{
+  background:#eb234e;
+  font-size: 20px;
+  font-weight: 400px;
+  display: inline;
+  padding: 10px;
+  padding-right: 25px;
+}
+.s3{
+  background: yellow;
+  font-size: 20px;
+  font-weight: 400px;
+  text-transform: uppercase;
+  display: inline;
+  padding: 10px;
+}

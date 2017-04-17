@@ -1,0 +1,31 @@
+  .e2{
+      display: block;
+      font-size: 20px;
+      font-weight: 400px;
+      margin: auto;
+  }
+  .s1{
+    background: yellow;
+    padding:10px;
+    width: 185px;
+    height: 55px;
+    margin: 25px 600px;
+    
+
+  }
+  .s2{
+    background:#eb234e;
+    width: 185px;
+    height: 55px;
+    padding: 10px;
+    margin: 25px 600px;
+
+  }
+  .s3{
+    background: yellow;
+    width: 185px;
+    height: 55px;
+    padding:10px;
+    text-transform: uppercase;
+    margin:  25px 600px;
+  }

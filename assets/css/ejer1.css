@@ -1,0 +1,23 @@
+.s1{
+  background: yellow;
+  display: block;
+  padding-bottom: 50px;
+  font-size: 20px;
+  font-weight: 400px;
+}
+.s2{
+  background:#eb234e;
+  display: block;
+  padding-bottom: 50px;
+  font-size: 20px;
+  font-weight: 400px;
+  border: 1px solid black;
+}
+.s3{
+  background: yellow;
+  display: block;
+  padding-bottom: 50px;
+  font-size: 20px;
+  font-weight: 400px;
+  text-transform: uppercase;
+}
